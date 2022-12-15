@@ -1,3 +1,3 @@
-module github.com/reinerhuechting/courses.go.aufgaben.listen
+module github.com/tel22a.inf/aufgaben_listen
 
 go 1.19
